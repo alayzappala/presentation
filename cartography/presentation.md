@@ -410,6 +410,7 @@ Un proyecto de análisis de datos ha de estar [perfectamente documentado](https:
 - [Principles of cartographic design - gislounge.com](https://www.gislounge.com/principles-of-cartographic-design/)
 - [La verdad sobre el mapa de Peters - naukas.com](http://naukas.com/2012/05/07/el-mapa-de-peters/)
 - [Historia de la cartografía y la topografía - José Martín López]()
+- [Manuales y tutoriales de QGis](http://docs.qgis.org/2.14/en/docs/index.html)
 - [Use the Five-Step GIS Analysis Process - Esri Training Matters](https://blogs.esri.com/esri/esritrainingmatters/2009/10/08/use-the-five-step-gis-analysis-process/)
 - [Conceptos Cartográficos - IGN](http://www.ign.es/web/resources/cartografiaEnsenanza/conceptosCarto/concepCarto_18.html)
 - [Tutorial Layout QGis - Tim Sinnott](http://vcgi.vermont.gov/sites/vcgi/files/event_archive/sinnott_QGIS_Cartography.pdf)
@@ -420,6 +421,8 @@ Un proyecto de análisis de datos ha de estar [perfectamente documentado](https:
 class: center, middle
 
 ##Gracias por vuestra atención
+![contain image](./img/cc-by-nc-sa.png)
 
-.footnote[[@alayzappala](http://twitter.com/alayzappala)]
+
+.footnote[[Alejandro Zappala](https://twitter.com/alayzappala)]
 
