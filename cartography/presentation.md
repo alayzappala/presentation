@@ -4,7 +4,7 @@ layout: true
 
 <!-- This slide will serve as the base layout for all your slides -->
 .bottom-bar[
-  {{title}}. enlace al [video](https://www.youtube.com/watch?v=Anz-78hoBkQ&feature=youtu.be&t=2h23m34s)
+  {{title}}. `Enlace al [video](https://www.youtube.com/watch?v=Anz-78hoBkQ&feature=youtu.be&t=2h23m34s)`
 ]
 
 ---
@@ -16,9 +16,8 @@ class: center, middle
 
 # {{title}}
 ## [Por qué lo llaman visualización cuando quieren decir mapa]
-enlace al [video](https://www.youtube.com/watch?v=Anz-78hoBkQ&feature=youtu.be&t=2h23m34s)
 
-.footnote[Alejandro Zappala   [Jornadas de Periodismo de Datos 2017](http://medialab-prado.es/article/jornadas-de-periodismo-de-datos-2017-jpd17-cada-dato-cuenta)]
+.footnote[Alejandro Zappala    [Jornadas de Periodismo de Datos 2017](http://medialab-prado.es/article/jornadas-de-periodismo-de-datos-2017-jpd17-cada-dato-cuenta)]
 ---
 class: center
 ## Ideas Principales
