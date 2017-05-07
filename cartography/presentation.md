@@ -421,5 +421,5 @@ class: center, middle
 
 ##Gracias por vuestra atención
 
-.footnote[@alayzappala]
+.footnote[[@alayzappala](http://twitter.com/alayzappala)]
 
