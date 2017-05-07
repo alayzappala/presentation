@@ -4,7 +4,7 @@ layout: true
 
 <!-- This slide will serve as the base layout for all your slides -->
 .bottom-bar[
-  {{title}}
+  {{title}}. enlace al [video](https://www.youtube.com/watch?v=Anz-78hoBkQ&feature=youtu.be&t=2h23m34s)
 ]
 
 ---
