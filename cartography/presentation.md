@@ -408,13 +408,32 @@ Un proyecto de análisis de datos ha de estar [perfectamente documentado](https:
 ##Bibliografía
 - [Sistemas de Información Geográfica - Víctor Olaya](https://volaya.github.io/libro-sig/)
 - [How to Lie with Maps - Mark S. Monmonier](http://www.markmonmonier.com/how_to_lie_with_maps_14880.htm)
-- [Principles of cartographic design - gislounge.com](https://www.gislounge.com/principles-of-cartographic-design/)
+- [Conceptos Cartográficos - IGN](http://www.ign.es/web/resources/cartografiaEnsenanza/conceptosCarto/concepCarto_18.html)
 - [La verdad sobre el mapa de Peters - naukas.com](http://naukas.com/2012/05/07/el-mapa-de-peters/)
 - [Historia de la cartografía y la topografía - José Martín López]()
 - [Manuales y tutoriales de QGis](http://docs.qgis.org/2.14/en/docs/index.html)
 - [Use the Five-Step GIS Analysis Process - Esri Training Matters](https://blogs.esri.com/esri/esritrainingmatters/2009/10/08/use-the-five-step-gis-analysis-process/)
-- [Conceptos Cartográficos - IGN](http://www.ign.es/web/resources/cartografiaEnsenanza/conceptosCarto/concepCarto_18.html)
 - [Tutorial Layout QGis - Tim Sinnott](http://vcgi.vermont.gov/sites/vcgi/files/event_archive/sinnott_QGIS_Cartography.pdf)
+
+]
+---
+
+.left-column[
+  ## Ideas Principales
+  ### - Contexto
+  ### - SIG
+  ### - Diseño Cartográfico
+  ### - IDE
+  ### - Proyecciones Cartográficas
+  ### - Web Mapping
+  ### - Documentación
+  ### - Bibliografía
+]
+.right-column[
+##Bibliografía
+- [Fundamentos del diseño cartográfico - Miguel Ángel Bernabé](http://geografiafisica.org/sem_2015_01/maestria_geom/SIG_p_GdR/elementos_diseno_cartografico/pdf_08_la_simbolizacion.pdf)
+- [Cartographic Design Principles - Ordnance Survey](https://www.ordnancesurvey.co.uk/resources/carto-design/carto-design-principles.html)
+- [Principles of cartographic design - gislounge.com](https://www.gislounge.com/principles-of-cartographic-design/)
 
 ]
 ---
