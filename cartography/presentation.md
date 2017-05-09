@@ -457,7 +457,6 @@ class: center, middle
 
 ##Gracias por vuestra atención
 ![contain image](./img/cc-by-nc-sa.png)
-Slideshow created using [remark](http://github.com/gnab/remark)
-.
+- Slideshow created using [remark](http://github.com/gnab/remark)
 .footnote[[Alejandro Zappala](https://twitter.com/alayzappala)]
 
