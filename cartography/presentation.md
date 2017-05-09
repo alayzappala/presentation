@@ -49,11 +49,10 @@ class: center
 ##Contexto
 Ten en cuenta dónde se va a representar el mapa
 - Noticia puntual vs Reportaje de fondo
-- Entrada de Blog- Web interactiva
-- Impreso VS pantalla luminescente (donde cambian las reglas de color y de contraste)
+- Entrada de Blog vs Web interactiva
+- Impreso vs pantalla luminescente (donde cambian las reglas de color y de contraste)
 - Si convive con otros formatos: Fotos, video, animaciones, histogramas, diagramas...
 - Resoluciones y formatos
-
 ]
 
 ---
@@ -63,11 +62,11 @@ Ten en cuenta dónde se va a representar el mapa
 ]
 .right-column[
 ##Contexto
-Tambien es importante medir los recursos de que se dispone
+También es importante medir los recursos de que se dispone
 - ¿Son datos dinámicos o estáticos?
 - ¿Es imprescindible que un navegador o un servidor haga todo el proceso de filtrado y cálculo de datos cada vez que se entre en la web correspondiente, o puede ser una/varios mapas estáticos que alivien de carga los sistemas informáticos?
 - Servidor con base de datos geográfica o documentos tabulados (JSON)
-- Servicios de terceros, como Carto o ESRI, tableau, etc...
+- Servicios de terceros, como [Carto](http://carto.com), ESRI, Tableau, etc...
 - Desarrollador web
 ]
 
@@ -102,7 +101,7 @@ Tambien es importante medir los recursos de que se dispone
 .right-column[
 
 ##Sistemas de Información Geográfica
-Formatos
+[Formatos](http://gisgeography.com/spatial-data-types-vector-raster/)
 - ráster
 - vectorial: entidades geográficas + atributos
 ]
@@ -351,8 +350,9 @@ Tras la Segunda Guerra Mundial, el Coast and Geodetic Survey de los EEUU realiz�
 ]
 .right-column[
 ##Web Mapping
-- Mide tus fuerzas: miniweb interactiva VS Buen diseño (carto)gráfico estático
-- Es importante conocer las [bases de simbolización cartográfica](http://geografiafisica.org/sem_2015_01/maestria_geom/SIG_p_GdR/elementos_diseno_cartografico/pdf_08_la_simbolizacion.pdf), no hace falta inventar la rueda. Las variables del diseño cartográfico ya están definidas y corroboradas (color, forma, tamaño, contraste, generalización de formas, etc.)
+- Mide tus fuerzas: Miniweb interactiva VS Buen diseño (carto)gráfico estático
+- Es importante conocer las [bases de simbolización cartográfica](http://geografiafisica.org/sem_2015_01/maestria_geom/SIG_p_GdR/elementos_diseno_cartografico/pdf_08_la_simbolizacion.pdf)
+- No hace falta inventar la rueda: Las variables del diseño cartográfico ya están definidas y corroboradas (color, forma, tamaño, contraste, generalización de formas, etc.), según el tipo de dato que queramos dar (variables continuas, discretas...)
 ]
 ---
 .left-column[
@@ -366,10 +366,10 @@ Tras la Segunda Guerra Mundial, el Coast and Geodetic Survey de los EEUU realiz�
 ]
 .right-column[
 ##Visualizadores cartográficos
-Openlayers, leaflet...
 
-- Mapa base
-- Datos
+- Visualizador: [Openlayers](http://openlayers.org/), [Leaflet](http://leafletjs.com/)...
+- Mapa base: [OpenStreetMap](http:/openstreetmap.org), [Google Maps](http://google.es/maps), servicios WMS como el del [PNOA](http://blog-idee.blogspot.com.es/2014/09/nuevo-servicio-wms-de-ortofotos-del-ign.html), ...
+- Datos: Los datos que se quieren representar
 ]
 ---
 
@@ -405,16 +405,31 @@ Un proyecto de análisis de datos ha de estar [perfectamente documentado](https:
   ### - Bibliografía
 ]
 .right-column[
-##Bibliografía
+##Bibliografía - General
 - [Sistemas de Información Geográfica - Víctor Olaya](https://volaya.github.io/libro-sig/)
 - [How to Lie with Maps - Mark S. Monmonier](http://www.markmonmonier.com/how_to_lie_with_maps_14880.htm)
 - [Conceptos Cartográficos - IGN](http://www.ign.es/web/resources/cartografiaEnsenanza/conceptosCarto/concepCarto_18.html)
 - [La verdad sobre el mapa de Peters - naukas.com](http://naukas.com/2012/05/07/el-mapa-de-peters/)
 - [Historia de la cartografía y la topografía - José Martín López]()
+]
+---
+.left-column[
+  ## Ideas Principales
+  ### - Contexto
+  ### - SIG
+  ### - Diseño Cartográfico
+  ### - IDE
+  ### - Proyecciones Cartográficas
+  ### - Web Mapping
+  ### - Documentación
+  ### - Bibliografía
+]
+.right-column[
+##Bibliografía - Tutoriales SIG
 - [Manuales y tutoriales de QGis](http://docs.qgis.org/2.14/en/docs/index.html)
 - [Use the Five-Step GIS Analysis Process - Esri Training Matters](https://blogs.esri.com/esri/esritrainingmatters/2009/10/08/use-the-five-step-gis-analysis-process/)
 - [Tutorial Layout QGis - Tim Sinnott](http://vcgi.vermont.gov/sites/vcgi/files/event_archive/sinnott_QGIS_Cartography.pdf)
-
+- [Tutorial para Georeferenciar una imagen con QGIS](http://docs.qgis.org/1.8/en/docs/user_manual/plugins/plugins_georeferencer.html)
 ]
 ---
 
@@ -430,7 +445,7 @@ Un proyecto de análisis de datos ha de estar [perfectamente documentado](https:
   ### - Bibliografía
 ]
 .right-column[
-##Bibliografía
+##Bibliografía - Diseño Cartográfico
 - [Fundamentos del diseño cartográfico - Miguel Ángel Bernabé](http://geografiafisica.org/sem_2015_01/maestria_geom/SIG_p_GdR/elementos_diseno_cartografico/pdf_08_la_simbolizacion.pdf)
 - [Cartographic Design Principles - Ordnance Survey](https://www.ordnancesurvey.co.uk/resources/carto-design/carto-design-principles.html)
 - [Principles of cartographic design - gislounge.com](https://www.gislounge.com/principles-of-cartographic-design/)
@@ -442,7 +457,7 @@ class: center, middle
 
 ##Gracias por vuestra atención
 ![contain image](./img/cc-by-nc-sa.png)
-
-
+Slideshow created using [remark](http://github.com/gnab/remark)
+.
 .footnote[[Alejandro Zappala](https://twitter.com/alayzappala)]
 
