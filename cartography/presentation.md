@@ -66,10 +66,13 @@ También es importante medir los recursos de que se dispone
 - ¿Son datos dinámicos o estáticos?
 - ¿Es imprescindible que un navegador o un servidor haga todo el proceso de filtrado y cálculo de datos cada vez que se entre en la web correspondiente, o puede ser una/varios mapas estáticos que alivien de carga los sistemas informáticos?
 - Servidor con base de datos geográfica o documentos tabulados (JSON)
-- Servicios de terceros, como [Carto](http://carto.com), ESRI, Tableau, etc...
-- Desarrollador web
+- Servicios de terceros, como [Carto](http://carto.com), [ESRI](http://esri.com), [Tableau](http://tableau.com), etc...
+- Desarrollo web: HTML, CSS, Javascript, PHP...
 ]
 
+???
+
+Ojo con la disponibilidad y cambios de condiciones de los servicios a terceros a lo largo del tiempo
 ---
 .left-column[
   ## Ideas Principales
