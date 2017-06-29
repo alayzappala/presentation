@@ -157,10 +157,10 @@ Exportación a cualquier formato que necesitemos
 ##Diseño Cartográfico
 Cuando hablamos de diseño nos referimos a que se siguen unas normas, de legibilidad, de usabilidad...
 
-- Es importante conocer las [bases de simbolización cartográfica](http://geografiafisica.org/sem_2015_01/maestria_geom/SIG_p_GdR/elementos_diseno_cartografico/pdf_08_la_simbolizacion.pdf). Las variables del diseño cartográfico ya están definidas y corroborados (color, forma, tamaño, contraste, generalización de formas)
+- Es importante conocer las [bases de simbolización cartográfica](http://geografiafisica.org/sem_2015_01/maestria_geom/SIG_p_GdR/elementos_diseno_cartografico/pdf_08_la_simbolizacion.pdf). Las variables del diseño cartográfico ya están definidas y corroboradas (color, forma, tamaño, contraste, generalización de formas)
 - La misión del mapa es la de `facilitar la lectura y categorizar visualmente` la información georeferenciada
 - Simbolización y simplificación
-- Por supuesto, un 30% de criterio artístico
+- Desde luego, un 30% de creatividad
 ]
 
 ---
@@ -462,5 +462,5 @@ class: center, middle
 ##Gracias por vuestra atención
 ![contain image](./img/cc-by-nc-sa.png)
 - Slideshow created using [remark](http://github.com/gnab/remark)
-.footnote[[Alejandro Zappala](https://twitter.com/alayzappala)]
+.footnote[Alejandro Zappala [@alayzappala](https://twitter.com/alayzappala)]
 
